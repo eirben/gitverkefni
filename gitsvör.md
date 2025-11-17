@@ -1,5 +1,5 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-    *cd -
-    *ls -
-    *pwd -
-    *mkdir -
+    * cd -
+    * ls -
+    * pwd -
+    * mkdir -
