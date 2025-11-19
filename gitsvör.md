@@ -13,5 +13,6 @@
     * git log
     * git checkout
     *git branch
+4. Næsta sp
 
 ![Mynd](lhg.png)
