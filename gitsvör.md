@@ -15,6 +15,8 @@
     *git branch
 4. Næsta spurning
 
-Breytur eiga vera með lýsandi heit
+Breytur eiga vera með lýsandi heiti
+**Konstantar eru alltaf í HÁSTÖFUM**
+
 
 ![Mynd](lhg.png)
