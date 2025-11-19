@@ -17,6 +17,8 @@
 
 Breytur eiga vera með lýsandi heiti
 
+![mynd af tölvu](img/windows.jpeg)
+
 **Konstantar eru alltaf í HÁSTÖFUM**
 
 
