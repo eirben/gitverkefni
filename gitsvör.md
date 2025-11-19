@@ -14,6 +14,7 @@
     * git checkout
     *git branch
 4. Næsta spurning
+
 Breytur eiga vera með lýsandi heit
 
 ![Mynd](lhg.png)
